@@ -6,7 +6,7 @@
 
 - 最新の記事: <https://github.com/asca2/book-review/releases/latest>
 - 記事の一覧: <https://github.com/asca2/book-review/releases>
-- 書籍ごとの感想は[Issue](https://github.com/azu/book-review/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Status%3A+Released%22)ごとに書かれています
+- 書籍ごとの感想は[Issue](https://github.com/asca2/book-review/issues?q=label%3A%22Status%3A+Released%22+sort%3Aupdated-desc)ごとに書かれています
 
 ## 更新の購読方法
 
